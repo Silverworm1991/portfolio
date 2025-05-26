@@ -1,7 +1,7 @@
 # Portfolio  
 **Rafael Lopes – Full-Stack Developer**
 
-Welcome! I’m Rafael Lopes, passionate about building engaging web experiences. This portfolio highlights my skills, projects, and career journey.
+Welcome to my portfolio! I'm Rafael Lopes, a Full-Stack Developer passionate about creating engaging and accessible web experiences. This portfolio showcases my skills, projects, and career journey.
 
 ## Table of Contents
 - [Project Overview](#project-overview)  
@@ -18,18 +18,18 @@ This portfolio presents:
 - **Contact:** How to get in touch with me.
 
 ## Technologies Used  
-- HTML  
-- CSS  
-- JavaScript (planned)  
-- Font Awesome (icons)  
-- Google Fonts (Poppins)  
-- Responsive Design  
+- **HTML** – Structure and content
+- **CSS** – Styling and layout
+- **JavaScript** – (Planned) Interactivity
+- **Font Awesome** – Icons
+- **Google Fonts** – Custom typography (Poppins)
+- **Responsive Design** – Mobile-friendly layout 
 
 ## Features  
-- Fully responsive design for all devices  
-- Smooth navigation between sections  
-- Project showcases with descriptions  
-- Simple contact form  
+- ✅ Fully responsive design
+- 🔗 Easy navigation between sections
+- 🖼 Project showcases with descriptions
+- ✉️ Simple contact form
 
 ## Contact  
 Feel free to reach out via the contact form or email me at **rafafilipe23@gmail.com**.
