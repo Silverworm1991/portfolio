@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Rafael Lopes - Portfolio
 
 Welcome to the portfolio of Rafael Lopes, a Full-Stack Developer with a passion for building engaging web experiences. This portfolio showcases my skills, projects, and contact information. Through this portfolio, you can get to know more about my journey and the projects I've worked on!
